@@ -2,4 +2,4 @@ An Error Analysis report based on the dataset: "Formula 1 World Championship (19
 
 *Used files from the dataset: races.csv, pit_stops.csv, results.csv, status.csv
 
-*The report was made on colab, named "F1_error_analysis.ipynb"
+*The report was made on Google Colab, named "F1_error_analysis.ipynb"
